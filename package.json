@@ -7,6 +7,6 @@
   "dependencies": {
     "@govuk-prototype-kit/common-templates": "1.1.1",
     "govuk-frontend": "4.6.0",
-    "govuk-prototype-kit": "file:../../../../../../../Users/joelanman/projects/govuk-prototype-kit"
+    "govuk-prototype-kit": "alphagov/govuk-prototype-kit#plugin-design"
   }
 }
