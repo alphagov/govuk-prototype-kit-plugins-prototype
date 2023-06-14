@@ -7,6 +7,6 @@
   "dependencies": {
     "@govuk-prototype-kit/common-templates": "1.1.1",
     "govuk-frontend": "4.6.0",
-    "govuk-prototype-kit": "alphagov/govuk-prototype-kit#b86ae7c4c9eb4255041d1386fd0ef59a1b28cf32"
+    "govuk-prototype-kit": "alphagov/govuk-prototype-kit#86a454b1357b6ee9c15e7d7fe03d48cb605af824"
   }
 }
